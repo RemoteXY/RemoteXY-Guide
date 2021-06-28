@@ -1,4 +1,6 @@
-# Быстрый старт
+# Содержание
 
-[Arduino UNO + Bluetooth module](/quick_start/arduino_bluetooth/ru.md)
+## Быстрый старт
+
+- [Arduino UNO + Bluetooth модуль](/quick_start/arduino_bluetooth/ru.md)
 
