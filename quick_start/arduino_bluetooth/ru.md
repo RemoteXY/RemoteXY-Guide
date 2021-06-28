@@ -1,4 +1,4 @@
-# Arduino UNO + Bluetooth HC-05
+# Arduino UNO + Bluetooth HC-05 модуль
 
 На этой странице вы найдете пошаговую инструкцию как запустить графический интерфейс на Arduino UNO используя модуль связи Bluetooth HC-05 или HC-06. Инструкция так же может быть использована для контроллеров Arduino Nano, Arduino Mini и совместимых.
 
