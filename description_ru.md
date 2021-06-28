@@ -2,5 +2,9 @@
 
 ## Быстрый старт
 
-- [Arduino UNO + Bluetooth модуль](/quick_start/arduino_bluetooth/ru.md)
+- [Arduino UNO + Bluetooth HC-05 модуль](/quick_start/arduino_bluetooth/ru.md)
+
+- [Arduino UNO + ESP8266 как WiFi точка доступа](/quick_start/arduino_wifipoint/ru.md)
+
+  
 
