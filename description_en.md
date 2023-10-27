@@ -10,5 +10,11 @@
 ## Connections
 
 - [Connection options](/connections/en.md)
-
 - [Own Cloud server](/connections/own_cloud/en.md)
+
+## Editor
+
+- [Editor](/editor/overview/en.md)
+- [Elements of graphical interface](/editor/elements/en.md)
+- [View settings](/editor/view/en.md)
+- [Hardware configuration](/editor/configuration/en.md)
