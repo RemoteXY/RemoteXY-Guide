@@ -7,3 +7,8 @@
 - [Arduino UNO + ESP8266 via Cloud Server](/quick_start/arduino_esp8266_wificloud/en.md)
 - [ESP32 Bluetooth LE](/quick_start/esp32_bluetooth/en.md)
 
+## Connections
+
+- [Connection options](/Connections/en.md)
+
+- [Own Cloud server](/Connections/OwnCloud/en.md)
