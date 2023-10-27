@@ -8,5 +8,7 @@
 
 - [Arduino UNO + ESP8266 через облачный сервер](/quick_start/arduino_esp8266_wificloud/ru.md)
 
+- [ESP32 Bluetooth LE](/quick_start/esp32_bluetooth/ru.md)
+
   
 

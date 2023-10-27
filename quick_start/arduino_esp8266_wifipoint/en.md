@@ -70,7 +70,7 @@ If you did everything correctly, then immediately after starting the Arduino you
 
 Install the [RemoteXY mobile app](https://remotexy.com/ru/download/) to your phone.
 
-Launch the application and click the **+** (Plus) button on the top navigation bar. In the window that opens, select a Bluetooth connection.
+Launch the application and click the **+** (Plus) button on the top navigation bar. In the window that opens, select  **WiFi Point** connection.
 
 > Attention. In accordance with the private security policy, the application will ask you for location permission. The app requires location permission to search for WiFi devices and connect to them.
 
