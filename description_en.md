@@ -9,6 +9,6 @@
 
 ## Connections
 
-- [Connection options](/Connections/en.md)
+- [Connection options](/connections/en.md)
 
-- [Own Cloud server](/Connections/OwnCloud/en.md)
+- [Own Cloud server](/connections/own_cloud/en.md)

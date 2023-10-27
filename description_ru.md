@@ -14,7 +14,7 @@
 
 ## Связь с контроллером
 
-- [Варианты связи с контроллером](/Connections/ru.md)
+- [Варианты связи с контроллером](/connections/ru.md)
 
-- [Собственный облачный сервер](/Connections/OwnCloud/ru.md)
+- [Собственный облачный сервер](/connections/own_cloud/ru.md)
 
