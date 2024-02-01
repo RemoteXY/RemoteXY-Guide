@@ -18,3 +18,7 @@
 - [Элементы графического интерфейса](/editor/elements/ru.md)
 - [Настройки экрана](/editor/view/ru.md)
 - [Конфигурация оборудования](/editor/configuration/ru.md)
+
+## Исходный код
+
+- [Как получить исходный код](/code/get_code/ru.md)

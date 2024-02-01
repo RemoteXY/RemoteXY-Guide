@@ -18,3 +18,8 @@
 - [Elements of graphical interface](/editor/elements/en.md)
 - [View settings](/editor/view/en.md)
 - [Hardware configuration](/editor/configuration/en.md)
+
+## Исходный код
+
+- [How to get the source code](/code/get_code/en.md)
+
