@@ -2,7 +2,7 @@
 
 Page switch is a special control element designed solely to change the visibility of pages in the graphical interface. The element is located on the **Decoration** tab of the left panel of the editor.
 
-![ru_01](ru_01.jpg)
+![en_01](en_01.jpg)
 
 ### Data
 
