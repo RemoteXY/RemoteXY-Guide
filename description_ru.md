@@ -19,7 +19,14 @@
 - [Элементы графического интерфейса](/editor/elements/ru.md)
 - [Настройки экрана](/editor/view/ru.md)
 - [Форматы экрана](/editor/formats/ru.md)
+- [Страницы](/editor/pages/ru.md)
+- [Использование страниц](/editor/page_usage/ru.md)
 
 ## Исходный код
 
 - [Как получить исходный код](/code/get_code/ru.md)
+
+## Элементы интерфейса
+
+- [Переключатель страниц](/elements/page/ru.md)
+

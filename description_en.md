@@ -19,8 +19,14 @@
 - [Elements of graphical interface](/editor/elements/en.md)
 - [View settings](/editor/view/en.md)
 - [Screen formats](/editor/formats/en.md)
+- [Pages](/editor/pages/en.md)
+- [Page usage](/editor/page_usage/en.md)
 
-## Исходный код
+## Source code
 
 - [How to get the source code](/code/get_code/en.md)
+
+## Elements of GUI
+
+- [Page switcher](/elements/page/en.md)
 
