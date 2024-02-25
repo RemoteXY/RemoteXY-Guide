@@ -15,9 +15,10 @@
 ## Редактор
 
 - [Редактор](/editor/overview/ru.md)
+- [Конфигурация оборудования](/editor/configuration/ru.md)
 - [Элементы графического интерфейса](/editor/elements/ru.md)
 - [Настройки экрана](/editor/view/ru.md)
-- [Конфигурация оборудования](/editor/configuration/ru.md)
+- [Форматы экрана](/editor/formats/ru.md)
 
 ## Исходный код
 

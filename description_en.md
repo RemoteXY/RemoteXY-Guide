@@ -15,9 +15,10 @@
 ## Editor
 
 - [Editor](/editor/overview/en.md)
+- [Hardware configuration](/editor/configuration/en.md)
 - [Elements of graphical interface](/editor/elements/en.md)
 - [View settings](/editor/view/en.md)
-- [Hardware configuration](/editor/configuration/en.md)
+- [Screen formats](/editor/formats/en.md)
 
 ## Исходный код
 
