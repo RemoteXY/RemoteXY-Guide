@@ -14,6 +14,8 @@ Change the properties of the page switches so that when clicked, both the common
 
 This way, the common page will always remain visible, and the switches for all pages will be visible on any page.
 
+![en_07](en_07.jpg)
+
 ### Additional parameters page with return button
 
 You can move additional information to a separate page that opens when necessary.

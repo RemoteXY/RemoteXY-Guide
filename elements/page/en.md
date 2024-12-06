@@ -28,7 +28,7 @@ As a label, you can use special encoding characters, such as emojis. To do this,
 
 During the operation of the graphical interface, pressing the element will show or hide pages according to the **Switch pages** setting.
 
-To quickly make the pages controlled by the page switch visible or hidden, you can select the switch and press **Enter**. Alternatively, right-click on the element and choose **Switch pages** from the context menu.
+In the editor, to quickly make pages visible or hidden, you can select the **Switch pages** and press **Enter**. Alternatively, right-click on the element and choose **Switch pages** from the context menu.
 
 The element has two display colors: normal color and activation color. If the current display of pages corresponds to the pages you configured in the **Switch pages** setting, the color of the element's button will change to the activation color. When you click on the page switch element, the visibility of pages will be set according to the settings of this element, and consequently, the page switch will change its color to the activation color.
 
