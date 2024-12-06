@@ -14,6 +14,8 @@ The **Button** control element allows the user to click it to perform a specific
 
 ### Configuration
 
+![en_03](en_03.jpg)
+
 - **Variable.** Specifies the name of the variable that will be bound to the button. The name is set according to the rules for naming C++ variables.
 - **Draw style.** Specifies the appearance of the button.
 - **Border style.** Specifies the border style of the button.
