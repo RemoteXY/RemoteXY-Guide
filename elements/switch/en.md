@@ -8,9 +8,9 @@ The **Button** control element allows the user to click it to perform a specific
 
 ### Data
 
-| Data               | Type    | Value                                                        | Direction |
-| ------------------ | ------- | ------------------------------------------------------------ | --------- |
-| Button press state | uint8_t | 0 - the button is not pressed<br />1 - the button is currently pressed | input     |
+| Data               | Type    | Value                                                        |
+| ------------------ | ------- | ------------------------------------------------------------ |
+| Button press state | uint8_t | 0 - the button is not pressed<br />1 - the button is currently pressed |
 
 ### Configuration
 
@@ -79,12 +79,8 @@ void setup () {
 void loop () {
   RemoteXY_Handler ();
   
-  if (RemoteXY.button!=0) {
-    digitalWrite(PIN_BUTTON, HIGH);
-  }
-  else {
-    digitalWrite(PIN_BUTTON, LOW);
-  }
+  if (RemoteXY.button!=0) digitalWrite(PIN_BUTTON, HIGH);
+  else digitalWrite(PIN_BUTTON, LOW);
 } 
 ```
 
