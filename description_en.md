@@ -25,6 +25,10 @@
 ## Source code
 
 - [How to get the source code](/code/get_code/en.md)
+- [Source code overview](/code/review/en.md)
+- [Structure of graphical interface variables](/code/structure/en.md)
+- [Initialization of the graphical interface](/code/setup/en.md)
+- [Interaction with the graphical interface](/code/work/en.md)
 
 ## Elements of GUI
 
