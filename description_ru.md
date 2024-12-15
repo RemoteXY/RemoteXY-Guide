@@ -33,6 +33,7 @@
 ## Элементы интерфейса
 
 - [Кнопка](/elements/button/ru.md)
+- [Выключатель](/elements/switch/ru.md)
 - [Переключатель страниц](/elements/page/ru.md)
 
 

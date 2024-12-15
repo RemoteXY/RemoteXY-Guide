@@ -33,5 +33,6 @@
 ## Elements of GUI
 
 - [Button](/elements/button/en.md)
+- [Switch](/elements/switch/en.md)
 - [Page switcher](/elements/page/en.md)
 
