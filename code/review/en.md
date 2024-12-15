@@ -6,7 +6,7 @@ In the Arduino IDE, select your board, compile the code, and upload it to the bo
 
 This section provides an overview of the components of the source code and their purposes.
 
-### Includes and Defines
+### Includes and defines
 
 This is the initial section of the source code, which includes several `#define` directives and additional library includes that set up the communication method and other necessary parameters. Following these definitions, the `RemoteXY.h` library is included. An example snippet of the code:
 
@@ -45,7 +45,7 @@ The example also contains a commented line `//#define REMOTEXY__DEBUGLOG`. If yo
 
 Debug information can be helpful if you encounter difficulties establishing a connection with the mobile application or in other situations.
 
-### Code for the graphical interface
+### Configuration of the graphical interface
 
 The next section of the code contains the `RemoteXY_CONF` array, which uniquely defines the appearance and data structure of the graphical interface.
 
