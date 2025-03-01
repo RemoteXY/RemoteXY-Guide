@@ -6,7 +6,9 @@ This section describes the general principles of interacting with the graphical 
 
 - [How to get the source code](/code/get_code/en.md)
 - [Source code overview](/code/review/en.md)
+- [Interaction with the graphical interface](/code/interaction/en.md)
 - [Structure of graphical interface variables](/code/structure/en.md)
 - [Initialization of the graphical interface](/code/setup/en.md)
-- [Interaction with the graphical interface](/code/work/en.md)
+- [Programming without delay](/code/nodelay/en.md)
+- 
 

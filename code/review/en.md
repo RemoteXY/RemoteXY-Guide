@@ -127,7 +127,7 @@ void loop()
 
 The function `RemoteXY_Handler();` cyclically handles all data exchange with the mobile application and should be called frequently, at least once in every cycle of the `loop()`.
 
-For more details on how to interact with the graphical interface in the `loop()` function, see the [loop() function](/code/work/en.md).
+For more details on how to interact with the graphical interface in the `loop()` function, see the [loop() function](/code/interaction/en.md).
 
 
 
