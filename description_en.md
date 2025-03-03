@@ -1,5 +1,7 @@
 # Description
 
+- [How it works](/main/en.md)
+
 ## Quick start
 
 - [Arduino UNO + Bluetooth HC-05 module](/quick_start/arduino_bluetooth/en.md)

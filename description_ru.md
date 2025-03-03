@@ -1,5 +1,7 @@
 # Содержание
 
+- [Как это работает](/main/ru.md)
+
 ## Быстрый старт
 
 - [Arduino UNO + Bluetooth HC-05 модуль](/quick_start/arduino_bluetooth/ru.md)
